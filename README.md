@@ -1,1 +1,1 @@
-https://roboflow.com/?authuser=0
+https://app.roboflow.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3Jrc3BhY2VJZCI6ImJBTlJyenpsNW1TcmdOdFRkTmFFNjBkRjVZVTIiLCJyb2xlIjoib3duZXIiLCJpbnZpdGVyIjoibGl1aGMxMDE3QGdtYWlsLmNvbSIsImlhdCI6MTc3NjMxMDA5OX0.S31-BPDBRms6qAuYTCAl0moBm2zUeYkcRhATed5JblM
